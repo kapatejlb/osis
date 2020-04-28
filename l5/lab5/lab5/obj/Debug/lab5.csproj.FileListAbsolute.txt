@@ -1,0 +1,9 @@
+D:\BSUIR\3_cours\СП\Labs\l5\lab5\lab5\bin\Debug\lab5.exe.config
+D:\BSUIR\3_cours\СП\Labs\l5\lab5\lab5\bin\Debug\lab5.exe
+D:\BSUIR\3_cours\СП\Labs\l5\lab5\lab5\bin\Debug\lab5.pdb
+D:\BSUIR\3_cours\СП\Labs\l5\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+D:\BSUIR\3_cours\СП\Labs\l5\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+D:\BSUIR\3_cours\СП\Labs\l5\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+D:\BSUIR\3_cours\СП\Labs\l5\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+D:\BSUIR\3_cours\СП\Labs\l5\lab5\lab5\obj\Debug\lab5.exe
+D:\BSUIR\3_cours\СП\Labs\l5\lab5\lab5\obj\Debug\lab5.pdb
